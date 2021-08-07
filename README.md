@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kacper aka Gromp
-- 👀 I’m interested in ...  C++ |  JavaScript (discord.js) | MySQL | Postgres
+- 👀 I’m interested in ...  C++ |  JavaScript (discord.js) | MySQL | Postgres | Splunk
  
 - 🌱 I’m currently learning ... C++ | Java + SpringBoot | JavaScript
 - 💞️ I’m looking to collaborate on ... Propably everything, want to get as much professional experience as possible C:
