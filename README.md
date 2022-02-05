@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kacper aka Gromp
-- 👀 I’m interested in ...  C++ | C# | MySQL | Postgres | Splunk | Swift
+- 👀 I’m interested in ...  C++ | Swift | C# | Splunk 
  
-- 🌱 I’m currently learning ... C++ | Swift | C#
+- 🌱 I’m currently learning ... C++ | Swift | C# | Java | OOP in general
 - 💞️ I’m looking to collaborate on ... Propably everything, want to get as much professional experience as possible C:
 - 📫 How to reach me ...
     LinkedIn : https://www.linkedin.com/in/kacper-ducin-789467183/ |
