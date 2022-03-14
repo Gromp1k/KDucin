@@ -7,7 +7,7 @@
     * [LinkedIn](https://www.linkedin.com/in/kacper-ducin-789467183)
     * [StackOverflow]()
     * [LeetCode](https://leetcode.com/Gromp/)
-    * [Discord](https://discordapp.com/users/350370126693924885)
+    * [Discord](https://discordapp.com/users/350370126693924885)(Gromp#8422)
 
 <!---
 KDucin/KDucin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
