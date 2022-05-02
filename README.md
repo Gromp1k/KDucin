@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kacper aka Gromp
+- 👋 Hi, I’m Kacper aka Gromp1k
 - 👀 I’m interested in ...  C++ | Swift | C# | Splunk 
  
 - 🌱 I’m currently learning ... C++ | Swift | C# | Java | OOP in general
