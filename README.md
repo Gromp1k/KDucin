@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kacper aka Gromp1k
-- 👀 I’m interested in ...  C++ | Swift | C# | Splunk 
+- 👀 I’m interested in ...  C++ | Swift | C# | Java | Design Patterns & OOP
  
 - 🌱 I’m currently learning ... C++ | Swift | C# | Java | OOP in general
 - 💞️ I’m looking to collaborate on ... Propably everything, want to get as much professional experience as possible C:
